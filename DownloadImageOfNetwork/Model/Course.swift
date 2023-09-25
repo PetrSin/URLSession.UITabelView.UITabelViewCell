@@ -18,4 +18,5 @@ struct Course: Decodable{
     let numberOfLessons: Int?
     let numberOfTests: Int?
     
+    
 }
